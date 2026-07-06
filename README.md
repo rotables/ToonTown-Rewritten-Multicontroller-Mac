@@ -2,9 +2,11 @@
 Multicontroller for ToonTown Rewritten, built to modern macOS specifications, ARM-based, and written entirely in Swift
 
 # I know how a multicontroller works, just give me the download
-You can download the app by clicking here -- soon.
+[You can download the app by clicking here.](https://github.com/rotables/ToonTown-Rewritten-Multicontroller-Mac/releases/tag/1.0) Also can be found under releases in this repo.
 
 **You will need to go to System Settings and allow this program to open since it is unsigned.** Apple will prompt you with a security warning when you initially attempt to open. You can find the source code in this repository for your review.
+
+**It will also prompt you on initial open for accessibility access -- this is to control the TTR windows/instances.**
 
 # Why another multicontroller?
 This app is written entirely in Swift and meets modern macOS specifications.
